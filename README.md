@@ -1,2 +1,37 @@
-# 3-DOF-Robotic-Arm-Demonstration-Using-Peter-Corke-Robotics-Toolbox-MATLAB-Source-Code
-This is a demonstration of a 3 DOF robotic arm built using the Peter Corke Robotics Toolbox in MATLAB. The arm can be controlled by entering the angels or using the sliders provided on the GUI. All the details are included, you only need to download the Matlab file and run it.  
+## Welcome to GitHub Pages
+
+You can use the [editor on GitHub](https://github.com/Ahmed-S-Shamsaldin/3-DOF-Robotic-Arm-Demonstration-Using-Peter-Corke-Robotics-Toolbox-MATLAB-Source-Code/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Jekyll Themes
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Ahmed-S-Shamsaldin/3-DOF-Robotic-Arm-Demonstration-Using-Peter-Corke-Robotics-Toolbox-MATLAB-Source-Code/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
